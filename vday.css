@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 16px;
     height:100vh;
-    background-image: url(/main/tlo.jpg);
+    background-image: url(tlo.jpg);
 
     display: flex;
     align-items: center;
