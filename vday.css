@@ -37,6 +37,7 @@ body {
 
 .valentines_card:hover .front_card{
     transform: rotateY(-160deg); 
+    transition-duration: 500ms;
 } 
 .valentines_card:hover .front_text {
     display: none;
